@@ -1,0 +1,40 @@
+/*
+MY COLOR PALETTE
+Lavender blush - #F7EBEC
+Thistle - #DDBDD5
+Rose quartz - #AC9FBB
+Payne's gray - #59656F
+Raisin black - #1D1E2C
+*/
+
+body {
+    background-color: #ddbdd5;
+    text-align: center;
+}
+
+button {
+    background-color: #1d1e2c;
+    color: #f7ebec;
+    font-family: "Playwrite DE Grund", cursive;
+    font-size: 17px;
+    font-weight: 300;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: #59656f;
+}
+
+h1 {
+    font-family: "Playwrite DE Grund", cursive;
+    font-size: 45px;
+}
+
+h2 {
+    font-family: "Gowun Batang", serif;
+    font-size: 30px;
+}
