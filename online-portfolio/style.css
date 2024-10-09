@@ -60,52 +60,62 @@ button {
 button:hover {
     background-color: #c19d92;
 }
+    button a {
+        color:#4e1420;
+        text-decoration: none;
+    }
+    
+    h1{
+       border-bottom: 2px solid;
+        padding: 30px;
+    }
 
-#copyright {
+.copyright {
     background-color: #ffffff;
 }
 
-#jobtitle
+.jobtitle
 {
     color:#ffffff; 
     
 }
 
-#jobcompany {
+.jobcompany {
     color: #efd0b9;
 }
 
-#jobdate {
+.jobdate {
     color: #efd0b9;
 }
 
-#jobdescription {
+.jobdescription {
     color: #efd0b9;
 }
 
-#list {
+.list {
     color: #efd0b9;
 }
 
-#degree {
+.degree {
     color: #efd0b9;
 }
 
-#School {
+.School {
     color: #efd0b9;
 }
 
-#year {
+.year {
     color:#efd0b9;
 }
     
 }
 
+
 @media (min-width:576px) {
     h1{
-        font-size:120px;
+        font-size:50px;
     }
     img {
-        margin: 1opx;
+        margin: 10px;
     }
 }
