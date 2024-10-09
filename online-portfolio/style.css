@@ -1,3 +1,63 @@
+/*
+MY COLOR PALETTE
+Background color - #521c1e
+Tan - #efd0b9
+Pinkish Tan - #c19d92
+White - #ffffff
+Burgundy - #4e1420
+*/
+
 img {
-    width: 100;
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+    border:none;
+    border-radius: 9px;
+}
+
+#navigation {
+    background-color:#ffffff;
+}
+
+h1 {
+    font-family: "Merienda", cursive;
+    font-size: 45px;
+    color: #efd0b9;
+}
+
+h2 {
+    font-family: "Nunito", serif;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+h3{
+    font-family: "Nunito", serif;
+    color: #c19d92
+}
+
+body {
+    background-color: #521c1e;
+    text-align: left;
+}
+
+button {
+    background-color: #efd0b9;
+    color: #4e1420;
+    font-family: 'Merienda', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    width: 200px;
+    padding: 6px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 9px;
+}
+
+button:hover {
+    background-color: #c19d92;
+}
+
+#copyright {
+    background-color: #ffffff;
 }
