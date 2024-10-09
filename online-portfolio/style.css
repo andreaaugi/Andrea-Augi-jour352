@@ -24,6 +24,11 @@ Burgundy - #4e1420
         padding-left: 15px;
     }
 
+    a {
+        color: #4e1420;
+        text-decoration: none;
+    }
+
     h1 {
         font-family: "Merienda", cursive;
         font-size: 55;
@@ -152,9 +157,9 @@ Burgundy - #4e1420
         padding-left: 30px;
         font-size: 20px;
     }
-    
+
     #section {
-        color:#4e1420;
+        color: #4e1420;
         text-decoration: none;
     }
 }
