@@ -7,137 +7,151 @@ White - #ffffff
 Burgundy - #4e1420
 */
 
-@media{
-
-img {
-    width: 330px;
-    padding: 10px;
-    margin-top: 20px;
-    border:none;
-    border-radius: 30px;
-    margin: 10px
-}
-
-#navigation {
-    background-color:#c19d92;
-    padding: 8px;
-    margin-top: 100px;
-  
-   
-}
-
-h1 {
-    font-family: "Merienda", cursive;
-    font-size: 55;
-    color: #efd0b9;
-}
-
-h2 {
-    font-family: "Nunito", serif;
-    font-size: 35px;
-    color: #ffffff;
-}
-
-h3{
-    font-family: "Nunito", serif;
-    color: #4e1420;
-    text-align:center;
-}
-
-body {
-    background-color: #521c1e;
-    text-align: left;
-    font-family: "Nunito", serif;
-}
-
-button {
-    background-color: #efd0b9;
-    color: #4e1420;
-    font-family: 'Merienda', cursive;
-    font-size: 24px;
-    font-weight: 400;
-    width: 200px;
-    padding: 6px;
-    margin-top: 40px;
-    border: none;
-    border-radius: 9px;
-}
-
-button:hover {
-    background-color: #c19d92;
-}
-    button a {
-        color:#4e1420;
-        text-decoration: none;
+@media {
+    img {
+        width: 330px;
+        padding: 10px;
+        margin-top: 20px;
+        border: none;
+        border-radius: 30px;
+        margin: 10px;
     }
-    
-    h1{
-       border-bottom: 2px solid;
+
+    #navigation {
+        background-color: #c19d92;
+        padding: 8px;
+        margin-top: 40px;
+        padding-left: 15px;
+    }
+
+    h1 {
+        font-family: "Merienda", cursive;
+        font-size: 55;
+        color: #efd0b9;
+        padding-left: 30px;
+    }
+
+    h2 {
+        font-family: "Nunito", serif;
+        font-size: 35px;
+        color: #ffffff;
+        padding-left: 30px;
+    }
+
+    h3 {
+        font-family: "Nunito", serif;
+        color: #4e1420;
+        text-align: center;
+    }
+
+    body {
+        background-color: #521c1e;
+        text-align: left;
+        font-family: "Nunito", serif;
+    }
+
+    button {
+        background-color: #efd0b9;
+        color: #4e1420;
+        font-family: "Merienda", cursive;
+        font-size: 24px;
+        font-weight: 400;
+        width: 200px;
+        padding: 6px;
+        margin-top: 40px;
+        border: none;
+        border-radius: 9px;
+        display:block;
+        margin: 60px;
+        
+    }
+
+    button:hover {
+        background-color: #c19d92;
+    }
+    button a {
+        color: #4e1420;
+        text-decoration: none;
+        
+    }
+
+    h1 {
+        border-bottom: 2px solid;
         padding: 30px;
     }
 
-.copyright {
-    background-color: #c19d92;
-    color: #4e1420;
-    font-style: italic;
-    font-family: "Nunito", serif;
-    text-align: left;
+    .copyright {
+        background-color: #c19d92;
+        color: #4e1420;
+        font-style: italic;
+        font-family: "Nunito", serif;
+        text-align: left;
+        padding-left: 40px;
+        padding: 10px;
+        margin-top: 100px;
+    }
+
+    .jobtitle {
+        color: #ffffff;
+        font-weight: 800;
+        font-size: 20px;
+        font-family: "Nunito", serif;
+        padding-left: 30px;
+        padding-top: 15px;
+    }
+
+    .jobcompany {
+        color: #efd0b9;
+        font-style: italic;
+        font-family: "Nunito", serif;
+        padding-left: 30px;
+    }
+
+    .jobdate {
+        color: #efd0b9;
+        font-family: "Nunito", serif;
+        padding-left: 30px;
+    }
+
+    .jobdescription {
+        color: #efd0b9;
+        font-family: "Nunito", serif;
+        padding-top: 15px;
+    }
+
+    .list {
+        color: #ffffff;
+        font-family: "Nunito", serif;
+        padding-top: 15px;
+        padding-bottom: 60px;
+    }
+
+    .degree {
+        padding-top: 15px;
+        color: #ffffff;
+        font-weight: 800;
+        font-size: 20px;
+        font-family: "Nunito", serif;
+        padding-left: 30px;
+    }
+
+    .School {
+        color: #efd0b9;
+        font-style: italic;
+        font-family: "Nunito", serif;
+        padding-left: 30px;
+    }
+
+    .year {
+        color: #efd0b9;
+        font-family: "Nunito", serif;
+        padding-left: 30px;
+    }
 }
 
-.jobtitle
-{
-    color:#ffffff; 
-     font-weight: 800;
-    font-size: 20px;
-    font-family: "Nunito", serif;
-    
-}
-
-.jobcompany {
-    color: #efd0b9;
-    font-style: italic;
-    font-family: "Nunito", serif;
-}
-
-.jobdate {
-    color: #efd0b9;
-    font-family: "Nunito", serif;
-}
-
-.jobdescription {
-    color: #efd0b9;
-    font-family: "Nunito", serif;
-}
-
-.list {
-    color: #ffffff;
-    font-family: "Nunito", serif;
-}
-
-.degree {
-    color: #ffffff;
-    font-weight: 800;
-    font-size: 20px;
-    font-family: "Nunito", serif;
-}
-
-.School {
-    color: #efd0b9;
-    font-style: italic;
-    font-family: "Nunito", serif;
-}
-
-.year {
-    color:#efd0b9;
-    font-family: "Nunito", serif;
-}
-    
-}
-
-
-@media (min-width:576px) {
-    h1{
-        font-size:50px;
+@media (min-width: 576px) {
+    h1 {
+        font-size: 50px;
     }
     img {
         margin: 10px;
