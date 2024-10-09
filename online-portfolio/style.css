@@ -29,6 +29,10 @@ Burgundy - #4e1420
         text-decoration: none;
     }
 
+    a:hover {
+        text-decoration: underline;
+    }
+
     h1 {
         font-family: "Merienda", cursive;
         font-size: 55;
