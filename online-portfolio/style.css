@@ -10,49 +10,55 @@ Burgundy - #4e1420
 @media{
 
 img {
-    width: 200px;
+    width: 330px;
     padding: 10px;
     margin-top: 20px;
     border:none;
-    border-radius: 12px;
+    border-radius: 30px;
     margin: 10px
 }
 
 #navigation {
-    background-color:#ffffff;
+    background-color:#c19d92;
+    padding: 8px;
+    margin-top: 100px;
+  
+   
 }
 
 h1 {
     font-family: "Merienda", cursive;
-    font-size: 45px;
+    font-size: 55;
     color: #efd0b9;
 }
 
 h2 {
     font-family: "Nunito", serif;
-    font-size: 30px;
+    font-size: 35px;
     color: #ffffff;
 }
 
 h3{
     font-family: "Nunito", serif;
-    color: #c19d92
+    color: #4e1420;
+    text-align:center;
 }
 
 body {
     background-color: #521c1e;
     text-align: left;
+    font-family: "Nunito", serif;
 }
 
 button {
     background-color: #efd0b9;
     color: #4e1420;
     font-family: 'Merienda', cursive;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
     width: 200px;
     padding: 6px;
-    margin-top: 10px;
+    margin-top: 40px;
     border: none;
     border-radius: 9px;
 }
@@ -71,41 +77,59 @@ button:hover {
     }
 
 .copyright {
-    background-color: #ffffff;
+    background-color: #c19d92;
+    color: #4e1420;
+    font-style: italic;
+    font-family: "Nunito", serif;
+    text-align: left;
 }
 
 .jobtitle
 {
     color:#ffffff; 
+     font-weight: 800;
+    font-size: 20px;
+    font-family: "Nunito", serif;
     
 }
 
 .jobcompany {
     color: #efd0b9;
+    font-style: italic;
+    font-family: "Nunito", serif;
 }
 
 .jobdate {
     color: #efd0b9;
+    font-family: "Nunito", serif;
 }
 
 .jobdescription {
     color: #efd0b9;
+    font-family: "Nunito", serif;
 }
 
 .list {
-    color: #efd0b9;
+    color: #ffffff;
+    font-family: "Nunito", serif;
 }
 
 .degree {
-    color: #efd0b9;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 20px;
+    font-family: "Nunito", serif;
 }
 
 .School {
     color: #efd0b9;
+    font-style: italic;
+    font-family: "Nunito", serif;
 }
 
 .year {
     color:#efd0b9;
+    font-family: "Nunito", serif;
 }
     
 }
