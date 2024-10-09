@@ -7,12 +7,15 @@ White - #ffffff
 Burgundy - #4e1420
 */
 
+@media{
+
 img {
     width: 200px;
     padding: 10px;
     margin-top: 20px;
     border:none;
-    border-radius: 9px;
+    border-radius: 12px;
+    margin: 10px
 }
 
 #navigation {
@@ -60,4 +63,49 @@ button:hover {
 
 #copyright {
     background-color: #ffffff;
+}
+
+#jobtitle
+{
+    color:#ffffff; 
+    
+}
+
+#jobcompany {
+    color: #efd0b9;
+}
+
+#jobdate {
+    color: #efd0b9;
+}
+
+#jobdescription {
+    color: #efd0b9;
+}
+
+#list {
+    color: #efd0b9;
+}
+
+#degree {
+    color: #efd0b9;
+}
+
+#School {
+    color: #efd0b9;
+}
+
+#year {
+    color:#efd0b9;
+}
+    
+}
+
+@media (min-width:576px) {
+    h1{
+        font-size:120px;
+    }
+    img {
+        margin: 1opx;
+    }
 }
