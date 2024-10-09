@@ -61,9 +61,8 @@ Burgundy - #4e1420
         margin-top: 40px;
         border: none;
         border-radius: 9px;
-        display:block;
+        display: block;
         margin: 60px;
-        
     }
 
     button:hover {
@@ -72,7 +71,6 @@ Burgundy - #4e1420
     button a {
         color: #4e1420;
         text-decoration: none;
-        
     }
 
     h1 {
