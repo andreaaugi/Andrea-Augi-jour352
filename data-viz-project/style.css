@@ -5,34 +5,35 @@ Tan - #efd0b9
 White - #ffffff
 */
 
-body{
+body {
     background-color: #521c1e;
 }
 
 h1 {
     font-weight: 1000;
     font-family: "Merienda", cursive;
-    font-size: 35px;
+    font-size: 40px;
     padding-top: 20px;
-    color:#efd0b9
+    color: #efd0b9;
 }
 
-h3{
+h3 {
     font-style: italic;
     font-family: "Merienda", cursive;
     padding-top: 10px;
     color: #efd0b9;
+    font-size: 27px;
 }
 
 h2 {
     font-family: "Nunito", serif;
-    font-size: 30px;
+    font-size: 32px;
     padding-top: 10px;
     color: #ffffff;
 }
 
-p{
+p {
     padding-top: 10px;
-font-family: "Nunito", serif;
+    font-family: "Nunito", serif;
     color: #ffffff;
 }
