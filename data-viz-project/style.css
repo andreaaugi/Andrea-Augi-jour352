@@ -1,0 +1,38 @@
+/*
+MY COLOR PALETTE
+Background color - #521c1e
+Tan - #efd0b9
+White - #ffffff
+*/
+
+body{
+    background-color: #521c1e;
+}
+
+h1 {
+    font-weight: 1000;
+    font-family: "Merienda", cursive;
+    font-size: 35px;
+    padding-top: 20px;
+    color:#efd0b9
+}
+
+h3{
+    font-style: italic;
+    font-family: "Merienda", cursive;
+    padding-top: 10px;
+    color: #efd0b9;
+}
+
+h2 {
+    font-family: "Nunito", serif;
+    font-size: 30px;
+    padding-top: 10px;
+    color: #ffffff;
+}
+
+p{
+    padding-top: 10px;
+font-family: "Nunito", serif;
+    color: #ffffff;
+}
