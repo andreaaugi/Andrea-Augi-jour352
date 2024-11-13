@@ -1,0 +1,13 @@
+#mainphoto {
+    width: 100%;
+}
+
+#topper {
+    background-image: url(Head%20photo.webp);
+        background-size: cover;
+}
+
+h1 {
+    margin: 0px 0px 800px 0px;
+    color: white;
+}
