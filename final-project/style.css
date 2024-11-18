@@ -1,13 +1,59 @@
+/*
+MY COLOR PALETTE
+#92817a
+#362417
+#f1dabf
+#E0DDCF
+#534b52
+*/
+
+body {
+    background-color: #e0ddcf;
+}
+
 #mainphoto {
     width: 100%;
 }
 
 #topper {
     background-image: url(Head%20photo.webp);
-        background-size: cover;
+    background-size: cover;
 }
 
 h1 {
     margin: 0px 0px 800px 0px;
-    color: white;
+    color: #92817a;
+    font-size: 75px;
+    padding-left: 60px;
+    padding-top: 60px;
+    font-family:
+        Abril Fatface,
+        serif;
+}
+
+#model {
+    max-width: 100%;
+    height: auto;
+}
+
+#man {
+    max-width: 100%;
+    height: auto;
+}
+
+#sewing {
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+    font-family: Montserrat, serif;
+    color: #362417;
+}
+
+h2 {
+    font-family:
+        Yeseva One,
+        serif;
+    color: #534b52;
 }
