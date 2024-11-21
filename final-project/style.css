@@ -154,6 +154,20 @@ h2 {
         serif;
     }
     
+    
+    a {
+         font-family: Montserrat, serif;
+    color: #5C0700;
+    font-size: 18px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        color:#92817a;
+        font-weight: 800;
+    }
+    
 }
 
 @media (min-width:576px) {
