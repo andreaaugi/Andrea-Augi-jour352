@@ -15,10 +15,15 @@ body {
 #mainphoto {
     width: 100%;
 }
+    
 
 #topper {
     background-image: url(Head%20photo.webp);
     background-size: cover;
+    background-position: fixed;
+
+ 
+    
 }
 
 h1 {
@@ -117,7 +122,8 @@ h2 {
         font-size: 35px;
     }
     
-    
+  
+
     
 }
 
