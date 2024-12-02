@@ -143,10 +143,12 @@ MY COLOR PALETTE
         border-left: 3px solid #c3a29e;
         text-align: left;
         padding-top: 7px;
-        padding-bottom: 5px;
+        padding-bottom: 13px;
         padding-left: 20px;
         font-weight: 600;
         border-width: 7px;
+        text-shadow: 2.5px 2px #c3a29e;
+        
     }
 
     .attribution {
