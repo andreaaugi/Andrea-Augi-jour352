@@ -27,7 +27,7 @@ MY COLOR PALETTE
         color: #92817a;
         font-size: 50px;
         padding-left: 30px;
-        padding-top: 60px;
+        padding-top: 50px;
         font-family:
             Abril Fatface,
             serif;
@@ -147,7 +147,7 @@ MY COLOR PALETTE
         padding-left: 20px;
         font-weight: 600;
         border-width: 7px;
-        text-shadow: 2.5px 2px #c3a29e;
+        text-shadow: 2px 2px #c3a29e;
     }
 
     .attribution {
