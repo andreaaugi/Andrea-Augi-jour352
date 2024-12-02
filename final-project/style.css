@@ -26,12 +26,12 @@ MY COLOR PALETTE
         margin: 0px 0px 0px 0px;
         color: #92817a;
         font-size: 50px;
-        padding-left: 60px;
+        padding-left: 30px;
         padding-top: 60px;
         font-family:
             Abril Fatface,
             serif;
-        text-shadow: 2px 2px #ffffff;
+        text-shadow: 2.5px 2px #534b52;
     }
 
     .byline {
@@ -52,12 +52,14 @@ MY COLOR PALETTE
     #subheadline {
         margin: 0px 0px 800px 0px;
         color: #92817a;
-        font-size: 75px;
-        padding-left: 60px;
+        font-size: 30px;
+        padding-left: 35px;
         font-family:
             Abril Fatface,
             serif;
         padding-bottom: 30px;
+        text-shadow: 2px 1.5px #534b52;
+        padding-top: 8px;
     }
     .fullimage {
         margin-left: auto;
@@ -177,10 +179,13 @@ MY COLOR PALETTE
     .content {
         width: 70%;
     }
-    
-    h1 
-    {
+
+    h1 {
         font-size: 75px;
+    }
+
+    #subheadline {
+        font-size: 50px;
     }
 }
 @media (min-width: 768px) {
